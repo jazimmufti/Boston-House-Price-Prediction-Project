@@ -1,4 +1,5 @@
-🏠 Boston Housing Price Prediction & Power BI Dashboard
+🏠 **Boston Housing Price Prediction & Power BI Dashboard**
+
 This project is a comprehensive end-to-end analysis and prediction model built on the Boston Housing dataset, integrating machine learning techniques with business intelligence visualization through Power BI. It aims to provide data-driven insights into the factors influencing housing prices and present them through interactive, easy-to-understand visuals.
 
 📁 Project Files
