@@ -4,8 +4,8 @@
 
 <h2>📁 Project Files</h2>
 <ul>
-  <li><strong>housing_project.ipynb</strong> – Jupyter notebook containing data preprocessing, visualization, and price prediction models.</li>
-  <li><strong>Power BI .pbix file</strong> – Interactive dashboard for exploring various aspects of the Boston housing dataset.</li>
+  <li><strong>boston-housing-prediction.ipynb</strong> – Jupyter notebook containing data preprocessing, visualization, and price prediction models.</li>
+  <li><strong>Boston PowerBI Dashboard.pbix file</strong> – Interactive dashboard for exploring various aspects of the Boston housing dataset.</li>
 </ul>
 
 <h2>🚀 Project Objectives</h2>
@@ -95,6 +95,6 @@
 <h2>✅ How to Use</h2>
 <ul>
   <li>Clone this repository.</li>
-  <li>Run <code>housing_project.ipynb</code> to explore and run the ML models.</li>
+  <li>Run <code>boston-housing-prediction.ipynb</code> to explore and run the ML models.</li>
   <li>Open the <code>.pbix</code> file using Power BI Desktop to interact with the dashboard.</li>
 </ul>
