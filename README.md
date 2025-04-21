@@ -22,8 +22,7 @@
 <h3>🔹 Data Preprocessing</h3>
 <ul>
   <li>Handling missing values</li>
-  <li>Renaming columns for clarity</li>
-  <li>Encoding categorical variables (e.g., CHAS)</li>
+  <li>Removing irrelevant columns</li>
   <li>Train-test splitting using scikit-learn</li>
 </ul>
 
@@ -53,7 +52,7 @@
 <h3>📈 Page 1:</h3>
 <ul>
   <li><strong>KPI Cards:</strong> Max, Min, Average of PRICE and TAX</li>
-  <li><strong>Pie Chart:</strong> Distribution of homes based on RAD (accessibility to highways)</li>
+  <li><strong>Donut Chart:</strong> Distribution of homes based on RAD (accessibility to highways)</li>
   <li><strong>Histogram:</strong> Price distribution across all houses</li>
   <li><strong>Scatter Plots:</strong>
     <ul>
