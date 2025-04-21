@@ -66,5 +66,36 @@
 
 <h3>📉 Page 2:</h3>
 <ul>
-  <li><strong>Correlation Heatmap:</strong> Displays relationships between features like LSTAT, RM, PTRATIO,
+  <li><strong>Correlation Heatmap:</strong> Displays relationships between features like LSTAT, RM, PTRATIO, and PRICE</li>
+  <li><strong>Bar Chart:</strong> Aggregated view of PRICE and RM by RAD and CHAS</li>
+  <li><strong>Conditional Formatting Table:</strong> Highlights patterns in features such as TAX, CRIM, and PRICE</li>
+  <li><strong>Interactive Filters:</strong>
+    <ul>
+      <li>Slicers for CHAS, RAD, PRICE range, and RM (number of rooms)</li>
+      <li>Users can dynamically filter visuals to explore data segments</li>
+    </ul>
+  </li>
+</ul>
 
+<h2>📌 Key Learnings</h2>
+<ul>
+  <li>Hands-on with data cleaning and visualization using Python (Pandas, Matplotlib, Seaborn).</li>
+  <li>Built and evaluated regression models (Linear Regression, Ridge Regression etc.).</li>
+  <li>Designed interactive visuals using Power BI.</li>
+  <li>Learned to combine ML insights with BI tools for better decision-making.</li>
+</ul>
+
+<h2>📦 Technologies Used</h2>
+<ul>
+  <li>Python (Jupyter Notebook)</li>
+  <li>Power BI</li>
+  <li>Pandas, NumPy, Matplotlib, Seaborn</li>
+  <li>Scikit-learn</li>
+</ul>
+
+<h2>✅ How to Use</h2>
+<ul>
+  <li>Clone this repository.</li>
+  <li>Run <code>housing_project.ipynb</code> to explore and run the ML models.</li>
+  <li>Open the <code>.pbix</code> file using Power BI Desktop to interact with the dashboard.</li>
+</ul>
